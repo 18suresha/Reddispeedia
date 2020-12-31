@@ -1,5 +1,9 @@
 # Reddispeedia
 
+## Description
+
+A Reddit version of [Wikispeedia](https://dlab.epfl.ch/wikispeedia/play/) using hyperlinks in subreddits to other subreddits.
+
 ## Presentation Video
 https://youtu.be/SmvtDUWfLV8
 
